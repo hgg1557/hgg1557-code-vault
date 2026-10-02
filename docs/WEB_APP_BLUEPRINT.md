@@ -1,0 +1,1 @@
+Rapid web app blueprint. Build in this order: data model, API contract, server authorization, UI, validation, loading/error/empty states, tests, production build.
