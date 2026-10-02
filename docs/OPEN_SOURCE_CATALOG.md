@@ -39,6 +39,30 @@ React + TypeScript + Vite 的泡泡龙游戏，包含 Canvas、触屏、粒子�
 - License: MIT
 - 用途：Canvas 游戏、触摸控制、粒子效果、关卡系统。
 
+### 7. React Minesweeper
+React 实现的经典扫雷项目，适合参考游戏状态、测试和部署到 GitHub Pages 的方式。
+- Repository: https://github.com/jpo/react-minesweeper
+- License: 项目页面未在摘要中明确展示许可证；复制前必须检查仓库 LICENSE。
+- 用途：扫雷 UI、测试、静态部署。
+
+### 8. Shadcn Dashboard
+React + Vite + TypeScript + shadcn/ui 的开源后台模板，包含 Dashboard、认证页、表格、表单、用户资料、深色模式等。
+- Repository: https://github.com/shadcndashboard/shadcndashboard
+- License: MIT（项目 README 同时要求保留署名链接）
+- 用途：管理后台、用户系统、数据表格、仪表盘。
+
+### 9. React-admin
+基于 React/TypeScript 的后台应用框架，提供认证、路由、表单、数据表格、搜索过滤、权限、通知等模块。
+- Repository: https://github.com/marmelab/react-admin
+- License: MIT
+- 用途：管理后台、CRUD、REST/GraphQL API 对接。
+
+### 10. Vital Admin Template
+React + Vite + TypeScript 的后台模板，包含用户、商品、订单、项目、发票、分析、通知、认证和设置等完整模块。
+- Repository: https://github.com/Miftah-Fentaw/React-admin-template
+- License: MIT
+- 用途：SaaS 后台、CRM、数据面板、电商后台、内部工具。
+
 ## 使用规则
 
 - 第三方代码在实际复制或改造前，应再次检查仓库当前 LICENSE、NOTICE 和具体文件的版权声明。
