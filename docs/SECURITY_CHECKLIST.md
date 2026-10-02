@@ -1,0 +1,1 @@
+Web App Security Checklist. Server-side authentication and authorization. Unpredictable sessions. Invalidate sessions on logout. Do not store session IDs or credentials in browser storage. Use HTTPS and secure cookies. Validate uploads by type and size. Rate-limit sensitive API endpoints. Do not expose secrets.
